@@ -17,6 +17,7 @@
 /*
 
 - We initialize the profit to 0.
+- We set the min to the first element of the prices array.
 
 
 */
