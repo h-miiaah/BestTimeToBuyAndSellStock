@@ -9,4 +9,5 @@
         minimum = Math.min(minimum, prices[i-1])
         profit = Math.max(prices[i]-minimum, profit)
     }
+    return profit
 };
