@@ -16,6 +16,7 @@
 
 /*
 
+- We initialize the profit to 0.
 
 
 */
