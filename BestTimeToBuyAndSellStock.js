@@ -20,6 +20,7 @@
 - We set the min to the first element of the prices array.
 - We loop through the prices array starting from the second element.
 - We set the min to the minimum of the current element and the current min.
+- We set the profit to the maximum of the current element minus the current min and the current profit.
 
 
 */
