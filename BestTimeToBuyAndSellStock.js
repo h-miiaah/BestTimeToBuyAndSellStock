@@ -18,6 +18,8 @@
 
 - We initialize the profit to 0.
 - We set the min to the first element of the prices array.
+- We loop through the prices array starting from the second element.
+- We set the min to the minimum of the current element and the current min.
 
 
 */
